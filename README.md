@@ -55,7 +55,7 @@
 12. Выполняю центрирование всех стрелок
 13. Сохраняю файл
 
-![image](https://github.com/user-attachments/assets/0f56ad38-f3e9-4a18-b3e8-15d049ae2462)
+![image](https://github.com/user-attachments/assets/5a089db2-d4bf-42e8-8d16-7edfc7e1c765)
 
 # Самостоятельный блок
 
